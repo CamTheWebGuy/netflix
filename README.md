@@ -8,4 +8,5 @@ This project is designed to be a clone of the Netflix UI with limited functional
 - More about Redux
 - Working with TMDB API!
 
-![](https://media1.giphy.com/media/2rIhJkzNGXOkRgwMAE/giphy.gif?cid=790b7611146e3b6b27659ca9ffe8458793cdaef590c766ce&rid=giphy.gif&ct=g)
+![ezgif-3-aa7322c776](https://user-images.githubusercontent.com/59720735/205469701-bfc1df40-2990-426a-8c75-9bf621620b6d.gif)
+
